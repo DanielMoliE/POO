@@ -6,11 +6,14 @@ public class Menu_operaciones{
         
         Scanner casio = new Scanner(System.in);
 
-        int valor1, valor2, resultado;
+        float valor1, valor2, resultado;
 
         
         System.out.println("Introduce los numeros a sumar");
-        
-        
+        valor1 = casio.nextFloat(); 
+        valor2 = casio.nextFloat();
+        resultado = valor1 + valor2;
+        System.out.println("La suma de los dos numeros es de: "+resultado);  
     }
+     
 }
