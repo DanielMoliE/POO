@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Menu_operaciones{
 
     public static void main(String[] args) {
-        System.out.println("Programa de menu de operaciones haciendo un cambio");
+        System.out.println("Programa de menu de operaciones haciendo un cambio A");
         
         Scanner casio = new Scanner(System.in);
 
