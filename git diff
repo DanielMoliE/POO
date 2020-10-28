@@ -1,0 +1,59 @@
+[33mcommit 20829b166b73afda252085d026cca58d6e577b0b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Daniel Molina <dmolinae1900@alumno.ipn.mx>
+Date:   Tue Oct 20 23:41:46 2020 -0500
+
+    Agrege un A
+
+[33mcommit f87564dda45c9b06edfd30469751168cef0d2832[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Daniel Molina <dmolinae1900@alumno.ipn.mx>
+Date:   Tue Oct 20 17:26:23 2020 -0500
+
+    Pruebas de nombre
+
+[33mcommit 737505435dbc7d1d372699d48a2ac87eee5e8750[m
+Author: iwhalk <moec17@gmail.com>
+Date:   Tue Oct 20 16:38:47 2020 -0500
+
+    Hola
+
+[33mcommit dc336647ef1c43d436bc3926ac7309f61a240e80[m
+Author: Daniel Molina <dmolinae1900@alumno.ipn.mx>
+Date:   Mon Oct 19 00:38:47 2020 -0500
+
+    Hice que se repitiera el menu, faltan detalles
+
+[33mcommit 4a44323b37e6a32c74d1cf85fd82de842244ed09[m
+Author: Daniel Molina <dmolinae1900@alumno.ipn.mx>
+Date:   Sun Oct 18 22:09:52 2020 -0500
+
+    Agregé las figuras y el calculo de sus areas
+
+[33mcommit fe36bfc0e0bb48b0c76d1dee44710c2e7d1f6910[m
+Author: Daniel Molina <dmolinae1900@alumno.ipn.mx>
+Date:   Sun Oct 18 01:33:36 2020 -0500
+
+    Se agrego un menu con el switch y ademas de agregar otra operacion resta
+
+[33mcommit 599c23e36da7576956ff4d077308955f89439b86[m
+Author: Daniel Molina <dmolinae1900@alumno.ipn.mx>
+Date:   Sun Oct 18 01:02:12 2020 -0500
+
+    Hice la operacion suma
+
+[33mcommit 2b6f802043da6b14563a5a470535269442f1da86[m
+Author: Daniel Molina <dmolinae1900@alumno.ipn.mx>
+Date:   Sun Oct 18 00:46:46 2020 -0500
+
+    descubri como invocar scanner
+
+[33mcommit 93c23e00b95404b147cdb3a7cd14aeca9009b789[m
+Author: Daniel Molina <dmolinae1900@alumno.ipn.mx>
+Date:   Sat Oct 17 23:59:26 2020 -0500
+
+    cambios
+
+[33mcommit 008eb770ad6449ed15c245b656b96681fa3875ce[m
+Author: Daniel Molina <dmolinae1900@alumno.ipn.mx>
+Date:   Sat Oct 17 23:49:07 2020 -0500
+
+    Primer commit

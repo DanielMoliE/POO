@@ -7,7 +7,8 @@ public class Menu_ejercicios_3IV9_Molina_Escobar_Daniel{
         Scanner casio = new Scanner(System.in);
 
         float valor1, valor2, valor3, valor4;
-        double resultado, resultado2;
+        String palabra;
+        double resultado, resultado2, resultado3;
         int opcion;
         do{
         System.out.println("Elegir una de las opciones");
@@ -24,11 +25,27 @@ public class Menu_ejercicios_3IV9_Molina_Escobar_Daniel{
             case 1:
                 System.out.println("Introduce el precio del abono");
                 valor1 = casio.nextFloat(); 
-                System.out.printl("Introduce tu edad");
-                valor2 = casio.nextfloat();
+                System.out.println("Introduce tu edad");
+                valor2 = casio.nextFloat();
+                resultado = valor1 -(valor1*.40);
+                resultado2 = valor1 -(valor1*.45);
+                resultado3 = valor1 -(valor1*.25);
+                String palabrita = si;
+                String palabrota = no;
+                if (valor2 > 65){
+                    System.out.println("El precio final del abono es "+resultado);
+                }
+                if (valor2 < 21){
+                    System.out.println("Sus padres son socios? (si o no)");
+                    palabra = casio.nextFloat();
+                    if (palabra == palabrita){
+                        System.out.println("El precio final del abono es "+resultado2);
+                    }
+                    if (palabra == palabrota){
+                        System.out.println("El precio final del abono es "+resultado3);
+                    }
+                }
                 
-                System.out.println("El perimetro del cuadrado es: "+resultado2 +" Unidades");
-                System.out.println("El área del cuadrado es de: "+resultado +" Unidades cuadradas");
                 break;
             case 2:
                 System.out.println("Introduce la base");
@@ -72,7 +89,10 @@ public class Menu_ejercicios_3IV9_Molina_Escobar_Daniel{
                 valor2 = casio.nextFloat();
                 resultado= (valor1*valor2)/2;
                 System.out.println("El área del hexagono es: "+resultado + " Unidades cuadradas");
+                break;
             case 7:
+                
+            case 8:
                 System.out.println("Ojalá te mueras");
                 break;
             default:
